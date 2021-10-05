@@ -2,7 +2,19 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
-a {
-  color: #00B7FF;
+.navbar-custom .navbar-nav .nav-link {
+  color: #b9973f;
 }
+body { background: #b9973f} 
+.navbar-brand { color: #b9973f}
+.navbar-custom {
+  background-color: #473b1d;
+}
+
+.container{
+  padding-top: 150px;
+  color:#473b1d;
+  background-color: #8f773c;
+  border:1px solid #5e4e28;
+}
+
